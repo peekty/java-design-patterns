@@ -9,6 +9,7 @@ package com.iluwatar;
  * The example uses both concrete implementations to create a king, a castle and
  * an army.
  * 
+ * @author not me
  */
 public class App {
 
